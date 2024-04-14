@@ -26,6 +26,6 @@ Run code:
 
 To run shakesperan converter:
 
-    python shakesperan_converter.py
+    python shakespeare_converter.py
 
 
