@@ -23,3 +23,9 @@ Run code:
     python3 model.py
 
 
+
+To run shakesperan converter:
+
+    python shakesperan_converter.py
+
+
