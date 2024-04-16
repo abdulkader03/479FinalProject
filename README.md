@@ -11,7 +11,7 @@ Run the code via a virtual enviroment:
     source venv_name/bin/activate
 
     // Activate enviroment for Windows
-    source venv_name/bin/activate
+    venv_name\Scripts\activate
 
 Install Model and PyTorch:
 
