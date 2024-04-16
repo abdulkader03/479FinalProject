@@ -45,6 +45,13 @@ shakespeare_to_english = {
     "followeth": "follow",
     "dog": "hound",
     "the": "the",
+    "boat": "vessel",
+    "small": "low",
+    "horse": "steed",
+    "brown": "chestnut",
+    "standing": "standeth",
+    "on top": "atop",
+    "field": "meadow",
     # Add more mappings as needed
 }
 

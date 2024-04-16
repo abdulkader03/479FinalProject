@@ -38,4 +38,4 @@ def predict_step(image_paths):
     print("Image caption: ", shakespeare_preds)
     return shakespeare_preds
 
-predict_step(['summer_day.JPG'])
+predict_step(['horse.JPG'])
